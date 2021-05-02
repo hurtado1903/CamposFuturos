@@ -10,6 +10,9 @@
 *.o
 *.obj
 
+# Carpetas
+Camposfuturos/Content/MetaHumans/
+
 # Precompiled Headers
 *.gch
 *.pch
