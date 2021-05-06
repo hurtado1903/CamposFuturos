@@ -12,8 +12,9 @@
 
 # Carpetas
 Camposfuturos/Content/MetaHumans/
+Camposfuturos/Content/AnimStarterPack/
 Camposfuturos/Content/MS_UrbAlTutV1/
-Camposfuturos/Saved/Autosaves/
+Camposfuturos/Saved/
 
 # Precompiled Headers
 *.gch
@@ -81,3 +82,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+*.ini
+*.bin
