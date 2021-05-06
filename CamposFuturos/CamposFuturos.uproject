@@ -136,6 +136,10 @@
 		{
 			"Name": "TimedDataMonitor",
 			"Enabled": true
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
 		}
 	]
 }
