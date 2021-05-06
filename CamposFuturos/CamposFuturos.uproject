@@ -137,12 +137,15 @@
 		{
 			"Name": "TimedDataMonitor",
 			"Enabled": true
+<<<<<<< HEAD
 		},
 		{
 			"Name": "DatasmithFBXImporter",
 			"Enabled": true
 =======
 >>>>>>> mati-plano-ciudad
+=======
+>>>>>>> parent of 9c6f871 (subir)
 		}
 	]
 }
